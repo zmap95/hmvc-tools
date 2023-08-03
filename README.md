@@ -3,7 +3,7 @@ Some available tools for HMVC Laravel projects.
 
 ### Installation
 ```$xslt
-composer require duyphan2502/hmvc-tools
+composer require zmap95/hmvc-tools
 ```
 Update your `composer.json`
 ```$xslt
